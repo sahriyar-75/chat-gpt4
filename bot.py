@@ -75,7 +75,7 @@ def handle_inline_query(update, context):
 
 def start(update, context):
     """Sends a welcome message when the command /start is issued."""
-    update.message.reply_text("This bot can help you find,search🔎 and share🔄 videos. It works automatically✅, no need to add it anywhere❎. Simply open any of your chats and type @Tg_YT_searchbot (something that you want to search) in the message field. Then tap on a result to send.For example, try typing @Tg_YT_searchbot a beautiful country")
+    update.message.reply_text("This bot can help you find,search🔎 and share🔄 videos. It works automatically✅, no need to add it anywhere❎. Simply open any of your chats and type @YTnexbot (something that you want to search) in the message field. Then tap on a result to send.For example, try typing @YTnexbot a beautiful country")
 
 def main():
     """Starts the bot."""

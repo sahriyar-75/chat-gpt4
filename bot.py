@@ -8,7 +8,7 @@ from telegram import InlineQueryResultArticle, InputTextMessageContent
 BOT_TOKEN = '7077775301:AAFYMGDQR1Rdh9Q8lEX-ubk-rq-LTJeoc60'
 
 # Replace with your actual YouTube API key
-YOUTUBE_API_KEY = 'AIzaSyCBre3thaXseeX9EHvG-cQ6PqRIkOKO_yg'
+YOUTUBE_API_KEY = 'AIzaSyDYh8jxf-CM0ktjf9_VFFL_sqU5ANWbMnI'
 
 # Replace with your custom web interface URL
 WEB_INTERFACE_URL = 'https://teletube.onrender.com/play'

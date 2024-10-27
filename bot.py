@@ -5,7 +5,7 @@ from telegram.ext import Updater, InlineQueryHandler, CommandHandler
 from telegram import InlineQueryResultArticle, InputTextMessageContent
 
 # Replace with your actual bot token
-BOT_TOKEN = '7077775301:AAEo7jvAPq7jAOdpCrNg6oYlLEXJ-7iIcKo'
+BOT_TOKEN = '7077775301:AAFYMGDQR1Rdh9Q8lEX-ubk-rq-LTJeoc60'
 
 # Replace with your actual YouTube API key
 YOUTUBE_API_KEY = 'AIzaSyC6LCQUj9QPcJ2-enpov_cRrQSKMa6ZKIs'
